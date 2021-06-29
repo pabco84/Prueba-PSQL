@@ -1,0 +1,6 @@
+cod_autor, nombre_autor, apellido_autor, nacimiento, muerte, tipo_autor
+3,jose,salgado,1968,2020,principal
+4,ana,salgado,1972,,coautor
+1,andres,ulloa,1982,,principal
+2,sergio,mardones,1950,2012,principal
+5,martin,porta,1976,,principal
